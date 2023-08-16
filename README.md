@@ -8,7 +8,8 @@ C++ Object Detection with YOLOv5 involves implementing real-time and image objec
 * GCC-6.3.0-1
 ______________________________________________________________________________
 
-Download ONNX model from **Releases** and put it on Models folder. Debug mode may crush the code so run it in *Release* mode in visual studio. 
+Download ONNX model from **Releases** or [here](https://github.com/RsGoksel/Cpp-Object-Detection-Yolov5-OpenCV/releases/download/ONNX/yolov5s.onnx)
+and put it on Models folder. Debug mode may crush the code so run it in *Release* mode in visual studio. 
 
 Repository consists of two parts. One focuses on object detection from images, and the other on object detection from video media. An ONNX model developed for object detection will be used in both sections
 
