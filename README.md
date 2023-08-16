@@ -14,7 +14,8 @@ Repository consists of two parts. One focuses on object detection from images, a
 
 ______________________________________________________________________________
 
-![Repo (1)](https://github.com/RsGoksel/Object-Detection-Yolov5-C-OpenCV/assets/80707238/d613a449-7faf-4810-ad63-bd1d69bcaf6b)
+![Repo (1)](https://github.com/RsGoksel/Cpp-Object-Detection-Yolov5-OpenCV/assets/80707238/e06d9855-9f75-44e5-865c-4d090495a2d0)
+
 ______________________________________________________________________________
 
 
